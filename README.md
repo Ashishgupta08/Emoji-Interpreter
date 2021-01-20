@@ -1,4 +1,4 @@
 # Emoji-Interpreter
 Created with CodeSandbox
 
-https://c6xph.csb.app
+https://emojiinterpreter-ashish.netlify.app/
